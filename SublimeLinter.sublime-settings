@@ -1,0 +1,9 @@
+// SublimeLinter Settings - User
+{
+	"show_panel_on_save": "view",
+    "paths": {
+        "osx": [
+            "/Users/bitmaster/.composer/vendor/bin"
+        ]
+    }
+}
