@@ -1,0 +1,19 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Laravel 5 Artisan",
+		"Origami",
+		"Package Control",
+		"PHP Companion",
+		"PHP CS Fixer",
+		"PHP Getters and Setters",
+		"ProjectManager",
+		"SublimeLinter",
+		"SublimeLinter-phpcs"
+	]
+}
