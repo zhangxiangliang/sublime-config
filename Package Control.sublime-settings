@@ -6,6 +6,9 @@
 	"installed_packages":
 	[
 		"AdvancedNewFile",
+		"Babel",
+		"Babel Snippets",
+		"Emmet",
 		"Laravel 5 Artisan",
 		"Origami",
 		"Package Control",
