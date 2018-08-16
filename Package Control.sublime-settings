@@ -8,6 +8,8 @@
 		"AdvancedNewFile",
 		"Babel",
 		"Babel Snippets",
+		"DocBlockr",
+		"EditorConfig",
 		"Emmet",
 		"Laravel 5 Artisan",
 		"Origami",
@@ -16,7 +18,9 @@
 		"PHP CS Fixer",
 		"PHP Getters and Setters",
 		"ProjectManager",
+		"Solidity Docstring Generator",
 		"SublimeLinter",
-		"SublimeLinter-phpcs"
+		"SublimeLinter-phpcs",
+		"TypeScript Syntax"
 	]
 }
